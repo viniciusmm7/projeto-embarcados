@@ -45,4 +45,4 @@ Play/pause, voltar 5 segundos, avançar 5 segundos, ativar/desativar tela cheia,
 
 ### Design (2 pts)
 
-![esboço controle](./docs/esboco.png)
+![esboço controle](./doc/esboco.png)
